@@ -1,1 +1,1 @@
-add_lunch_combo cm_exhilarate-eng
+add_lunch_combo cd_exhilarate-eng
